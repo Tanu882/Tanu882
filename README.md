@@ -1,5 +1,4 @@
-![1741442365859]([https://github.com/user-attachments/assets/9350ef6b-bafd-4397-b498-9b8a2a68aae6](https://drive.google.com/file/d/1S4I6vP1AKbGjX4KlNDpUF21NSa_juO4Y/view))
-
+![logo](https://github.com/Tanu882/Tanu882/blob/main/1742530135391.jpeg)
 <h1 align="center">Hi 👋, I'm Tanu Yadav</h1>
 <h3 align="center">A passionate Full-stack developer (MERN Stack) from India</h3>
 
