@@ -57,62 +57,76 @@ Chhattisgarh, India
 
 # 📊 Projects
 
-## 🏘️ Property Management Web Application
+## 🌐 Dev Portfolio – Personal Developer Website
 
-**Tech:** Bootstrap, Node.js, Express.js, MongoDB
+**Tech Stack:** React.js, Tailwind CSS
 
-- Developed a full-stack property management system using **Bootstrap, Node.js, Express.js, and MongoDB**
-- Built a **fully responsive UI** with 100% mobile and desktop compatibility
-- Implemented **secure authentication using Passport.js** (Local, Google, Facebook OAuth)
-- Integrated **Cloudinary for image uploads** and **Mapbox for geolocation**
-- Designed a scalable **MVC architecture with RESTful routes**
-- Implemented validation using **Joi** and secure password hashing
+🔗 **Live Demo:** [View Portfolio](https://inspiring-tanuki-bcfbb5.netlify.app/#about)
+
+- Built a **modern personal portfolio website** to showcase projects, skills, and development experience
+- Designed a **responsive UI using React and Tailwind CSS** for seamless viewing across devices
+- Organized sections for **projects, tech stack, and contact information** for better presentation
+- Implemented **smooth navigation and clean component-based structure** for better user experience
+- Deployed the portfolio to create a **professional online presence and project showcase**
+
+
+## 🏠 RentEase – Property Rental Management Platform
+
+**Tech Stack:** Bootstrap, Node.js, Express.js, MongoDB, Cloudinary, Mapbox
+
+🔗 **Live Demo:** [View Portfolio](https://wandernest-w9b9.onrender.com/)
+
+* Built a **full-stack property rental platform** for listing, browsing, and reviewing rental properties
+* Designed a **responsive Bootstrap interface** for seamless mobile and desktop usability
+* Implemented **secure authentication with Passport.js** supporting Local, Google, and Facebook OAuth
+* Integrated **Cloudinary for image uploads** and **Mapbox for location-based property visualization**
+* Applied **MVC architecture with RESTful routes** for scalable backend development
+* Added **Joi validation and bcrypt hashing** for secure data validation and password protection
+ and secure password hashing
 
 ---
 
-## 📝 HireMe AI Suite – AI-Powered Resume Builder
+## 🚗 AI-Powered Car Marketplace
+**Tech Stack:** React (Vite), Tailwind CSS, Clerk Authentication, Supabase, Gemini API, WhatsApp Integration, AI Chatbot
 
-**Tech Stack:** React (Vite), Tailwind CSS, Clerk, Gemini API, Strapi, Node.js, MySQL
+🔗 **Live Demo:** [View Project](https://rk-motors-blond.vercel.app/)
 
-- Built a **full-stack AI resume builder** with dynamic multi-step forms
-- Integrated **Gemini API** to generate AI-powered summaries, experience, and skills
-- Implemented **secure authentication using Clerk** (Google + Email/Password)
-- Developed a **CMS backend using Strapi + MySQL**
-- Created a responsive UI with **real-time resume preview**
-- Enabled **one-click PDF export**
+* Built a **full-stack AI Powered Car Marketplace**
+* Reduced manual entry using **AI-powered vehicle listing generation with Gemini API**
+* Implemented **secure authentication using Clerk** (Google + Email/Password)
+* Used **Supabase for database management and backend services**
+* Integrated **WhatsApp support and AI chatbot** for customer interaction and assistance
+* Created a responsive UI for **browsing, searching, and comparing vehicle listings**
 
 ---
 
-## 🧠 GenUI Forge – AI Component Generator
+## 🧭 PathFinder Visualizer – Algorithm Pathfinding Simulator
+
+**Tech Stack:** Python, Data Structures & Algorithms
+
+🔗 **Live Demo:** [View Portfolio](https://your-portfolio-link.com)  
+
+* Built an **interactive pathfinding visualizer** to demonstrate shortest-path algorithms on grid-based maps
+* Implemented **Dijkstra’s Algorithm** to compute optimal paths between nodes
+* Used **priority queues and efficient data structures** to improve algorithm performance
+* Visualized **node exploration, visited nodes, and shortest-path reconstruction** step-by-step
+* Designed the tool to help users **understand graph traversal and pathfinding concepts interactively**
+
+---
+
+
+## 🧠 AI Code Reviewer – Intelligent Code Analysis Tool
 
 **Tech:** React.js, Tailwind CSS, Gemini API
 
-- Built a **React + Tailwind interface** for fast UI generation
-- Integrated **Gemini API** to generate clean UI components
-- Applied **prompt engineering techniques**
-- Improved generated code accuracy by **40%**
-- Reduced manual UI development work by **60%**
+🔗 **Live Demo:** [View Portfolio](https://your-portfolio-link.com)  
 
----
-
-## 🔐 MERN Auth Pro – Complete Authentication System
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB, JWT, bcrypt, Twilio, NodeMailer
-
-- Developed a **complete authentication system using MERN stack**
-- Implemented **JWT-based authentication and protected routes**
-- Added **Email OTP and Phone OTP verification**
-- Used **NodeMailer and Twilio for account verification**
-- Applied **bcrypt password hashing** and secure token validation
-- Implemented full authentication lifecycle:
-  - User Registration
-  - Login
-  - Forgot Password
-  - Reset Password
-  - Logout
-
----
----
+* Built a **React + Tailwind interface** for submitting and reviewing code snippets
+* Integrated **Gemini API** to analyze code and generate improvement suggestions
+* Applied **prompt engineering techniques** to enhance feedback quality and code explanations
+* Enabled **AI-based detection of bugs, inefficiencies, and best practice violations**
+* Reduced manual code review effort by **50%** through automated analysis and suggestions
+**60%**
 
 # 🌟 Connect With Me
 
