@@ -1,4 +1,4 @@
-![banner](https://github.com/Tanu882/Tanu882/blob/main/1742530135391.jpeg)
+![banner](https://github.com/Tanu882/Tanu882/blob/main/Linkedin_background.png)
 
 <h1 align="center">Hi 👋, I'm Tanu Yadav</h1>
 
